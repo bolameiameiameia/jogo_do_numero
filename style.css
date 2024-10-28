@@ -62,7 +62,7 @@ margin: 10px 0;
 }
 
 .ultimoResultado {
-color: white;
+color: rgb(228, 25, 221);
 padding: 3px;
 border-radius: 5px;
 font-size: 1.3em;
@@ -82,7 +82,7 @@ display: block;
 margin: 20px auto;
 padding: 10px 20px;
 background-color: #007bff;
-color: white;
+color: rgb(222, 216, 216);
 border: none;
 border-radius: 5px;
 font-size: 1.2em;
